@@ -140,7 +140,7 @@ pie
 
 1. **Adaptive Supply (Mint or Reduce):**
     - **Price Above Peg:** Mint new fogSNAKE/fogHOG. A portion goes to Pantheon Rewards and PSR.
-    - **Price Below Peg:** Automatic supply reduction (up to 1%) during bi-daily checks.
+    - **Price Below Peg:** Automatic supply reduction (up to 1%) during epoch checks.
 
 2. **Peg Stabilization Reserves (PSR):**
     - Collects fees from Pantheon claims and the FOG Farming Pool.
